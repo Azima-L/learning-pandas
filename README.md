@@ -11,6 +11,7 @@ This repo documents my own understanding and learning journey — feel free to f
 ## Table of Contents
 
 1. *Introduction*
+2. *Installation*
 
 *More chapters are on the way...*
 
