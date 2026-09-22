@@ -12,6 +12,7 @@ This repo documents my own understanding and learning journey — feel free to f
 
 1. *Introduction*
 2. *Installation*
+3. *Series and DataFrame*
 
 *More chapters are on the way...*
 
